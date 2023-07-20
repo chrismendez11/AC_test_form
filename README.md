@@ -1,8 +1,11 @@
-# React + Vite
+# Accesorios Globales S.A - Javascript form Assessment
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Formulario para archivos de texto .txt
 
-Currently, two official plugins are available:
+Técnologias utilizadas:
+- Javascript
+- CSS3
+- Reactjs
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Despliegue: https://form-assessment-ac.netlify.app/
+
